@@ -12,7 +12,7 @@ export default function Todo() {
   }
   return (
     <div>
-      <h2>Todo</h2>
+      
       <form onSubmit={handleAdd}>
         <input
           value={todo}
