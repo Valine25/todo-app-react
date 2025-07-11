@@ -1,12 +1,39 @@
-# React + Vite
+# ✅ React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal **To-Do List** application built with **React**. This app allows users to add, mark, and remove tasks — helping you stay productive and organized.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 🧹 Sort all completed tasks 
+- 💅 Clean UI using CSS Modules or styled-components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com//todo-app-react.git
+cd todo-app-react
+```
+### 2. Install dependencies
+```npm install```
+
+### 3. Start  the deployment  server
+```npm start```
+
+---
+
+### 💻 Technologies Used
+- React – Frontend library
+
+- CSS Modules – Styling
+
+
+  
